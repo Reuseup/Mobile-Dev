@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <item
+        android:id="@+id/bottom_chat"
+        android:title="@string/chat"
+        android:icon="@drawable/ic_chat"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/bottom_rizz"
+        android:title="@string/rizz_o_meter"
+        android:icon="@drawable/ic_rizz"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/bottom_article"
+        android:title="@string/article"
+        android:icon="@drawable/ic_article"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/bottom_profil"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_user"
+        app:showAsAction="ifRoom"/>
+</menu>
