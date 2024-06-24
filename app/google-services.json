@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1092547327288",
+    "project_id": "reuseup",
+    "storage_bucket": "reuseup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092547327288:android:a8caf2b7bb089631277dcd",
+        "android_client_info": {
+          "package_name": "com.bangkit.resep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092547327288-o2hfsmgquuk8fpkom9pc0m9egqi7mm25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bangkit.resep",
+            "certificate_hash": "e44cd2172c934ce6b5dfee4ab066b962048211d9"
+          }
+        },
+        {
+          "client_id": "1092547327288-9iecjmg288ps3m1ona2ijcncir4bq44p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwmorNQXAv6Jv4pAyG8gCJKLTMlH3dJw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092547327288-9iecjmg288ps3m1ona2ijcncir4bq44p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
