@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Resep</string>
+    <string name="chat">Chat</string>
+    <string name="rizz_o_meter">Rizz O Meter</string>
+    <string name="article">Article</string>
+    <string name="profile">Profile</string>
+    <string name="label_invalid_email">Format Email tidak valid</string>
+    <string name="label_validation_password">Password tidak boleh kurang dari 6 karakter</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="have_account">Belum Punya Akun?</string>
+    <string name="regis">Register</string>
+    <string name="signin">Login</string>
+    <string name="signout">Log Out</string>
+    <string name="daftartxt">Daftar Untuk Melanjutkan</string>
+    <string name="logintxt">Login Untuk Melanjutkan</string>
+    <string name="username">Username</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet , Sign Up !</string>
+    <string name="sign_in">Sign In</string>
+    <string name="resep">Resep</string>
+    <string name="login_txt">Enter your Username and Password</string>
+    <string name="confirm_pass">Retype Your Password</string>
+    <string name="already_registered_sign_in">Already Registered , Sign In !</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet">No Internet</string>
+    <string name="retry">Retry</string>
+    <string name="search_article">Search Article...</string>
+    <string name="date_time">DATE TIME</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="send">Send</string>
+</resources>
